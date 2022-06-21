@@ -1,0 +1,13 @@
+--------------------------------------------------------
+remember me
+"username or password failed" notice on login
+contact us
+make "KIN" text on middle
+google map
+client-side admin
+stock item feature
+popup alert instead of classic javascript alert
+javascript global method
+divide java code to method
+responsive admin sidebar
+upload image and import it to /resource folder (server)
